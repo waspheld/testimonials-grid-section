@@ -1,0 +1,20 @@
+{
+  "name": "testimonials-grid-section",
+  "version": "1.0.0",
+  "description": "![Design preview for the Testimonials grid section coding challenge](./design/desktop-preview.jpg)",
+  "main": "scripts.js",
+    "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waspheld/interactive-pricing-component.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server --port=8081 --no-browser --ignore=.git"
+  },
+  "dependencies": {
+    "live-server": "^1.2.2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
